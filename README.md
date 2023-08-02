@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-⚡ Computer Science and Math enthusiast.  
-🌱 Been learning programming for more than 5 years.  
+⚡ Computer Science and Math **enthusiast**.  
+🌱 Been **learning** programming for more than **5 years**.  
 🧠 I know Lua, C#, Java, Python, Javascript, HTML, and CSS.  
 🛠️ React, Unity and Roblox programmer.  
-🖌️ Also experience in Figma and Premiere Pro.  
+🖌️ Also experienced in Figma and Premiere Pro.  
 
 <!--
 **SafiMomen/SafiMomen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
