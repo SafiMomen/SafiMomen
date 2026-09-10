@@ -1,5 +1,6 @@
 ### Hello there 👋
 
+🎓 Pursuing Bachelor of Science in Engineering in Computer Science at Princeton University.
 ⚡ Computer Science and Math **enthusiast**.  
 🌱 Been **learning** programming for more than **a decade**.  
 🧠 I know Lua, C#, Java, Python, and Typescript.  
